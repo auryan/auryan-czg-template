@@ -1,6 +1,6 @@
 {
 	"name": "auryan-czg-template",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "Contribution template for my projects",
 	"keywords": ["czg", "czg template", "commit", "commit CLI", "commit message", "openai"],
 	"dependencies": {
