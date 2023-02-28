@@ -168,13 +168,13 @@ var template = {
 			"Removing code or files.",
 			"Removendo códigos ou arquivos."
 		),
+		newType("chore", "⚙️ ", ":gear:",
+			"Changing configuration files.",
+			"Fazendo mudanças em arquivos de configuração."
+		),
 		newType("chore", "🚀", ":rocket:",
 			"Deploying stuff.",
 			"Fazendo deploy de coisas"
-		),
-		newType("chore", "⚙️", ":gear:",
-			"Changing configuration files.",
-			"Fazendo mudanças em arquivos de configuração."
 		),
 		newType("test", "✅", ":white_check_mark:",
 			"Adding missing tests or correcting existing tests.",
