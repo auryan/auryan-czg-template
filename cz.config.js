@@ -124,10 +124,6 @@ var template = {
 			"Adding or updating types.",
 			"Adicionando ou atualizando tipos de dados."
 		),
-		newType("settings", "🔨", ":hammer:",
-			"Changing configuration files.",
-			"Fazendo mudanças que não modificam arquivos de fonte ou de teste."
-		),
 		newType("performance", "⚡️", ":zap:",
 			"Improving performance.",
 			"Fazendo mudanças de código que melhoram o desempenho."
@@ -175,6 +171,10 @@ var template = {
 		newType("chore", "🚀", ":rocket:",
 			"Deploying stuff.",
 			"Fazendo deploy de coisas"
+		),
+		newType("chore", "⚙️", ":gear:",
+			"Changing configuration files.",
+			"Fazendo mudanças em arquivos de configuração."
 		),
 		newType("test", "✅", ":white_check_mark:",
 			"Adding missing tests or correcting existing tests.",
