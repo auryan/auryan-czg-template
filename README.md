@@ -1,7 +1,7 @@
 
 # :speech_balloon: Contribution Rules
 
-`🇧🇷` Ir para [versão em português](README.md).
+`🇧🇷` Ir para [versão em português](README.pt-BR.md).
 
 To be honest, I don't have any strict rules that limit your contribution, as I believe you are **free** to help in any way you see fit, as long as your proposed changes are relevant to the project.
 
