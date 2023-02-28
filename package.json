@@ -3,7 +3,7 @@
 	"version": "1.0.7",
 	"description": "Contribution template for my projects",
 	"keywords": ["czg", "czg template", "commit", "commit CLI", "commit message", "openai"],
-	"dependencies": {
+	"devDependencies": {
 		"czg": "^1.5.0"
 	},
 	"scripts": {},
