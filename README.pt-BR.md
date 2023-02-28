@@ -1,7 +1,7 @@
 
 # :speech_balloon: Regras de Contribuição
 
-`🇺🇸` Go to [english version](README.en-US.md).
+`🇺🇸` Go to [english version](README.md).
 
 Para ser sincero, não possuo nenhuma norma rígida que limite sua contribuição, pois acredito que você é **livre** para ajudar da forma que achar melhor, desde que suas sugestões de mudanças sejam pertinentes para o projeto.
 
