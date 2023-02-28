@@ -11,13 +11,9 @@ To solve this, I ask that you use czg to standardize the format of your messages
 
 ### What is czg?
 
-Czg é uma ferramenta que oferece uma interface de linha de comando interativa que ajuda a criar mensagens de commit que seguem o padrão do .
-
 Czg is a tool that provides an interactive command-line interface that helps create commit messages that follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard.
 
 You can customize czg to meet your needs. For example, you can add new types of commits, scopes, etc.
-
-Todas as informações sobre o czg podem ser encontradas no 
 
 All information about czg can be found on the [official website](https://cz-git.qbb.sh/cli/).
 
@@ -60,8 +56,6 @@ It is also possible to generate a commit message with artificial intelligence us
 ```bash
 czg ai
 ```
-
-No entanto, antes de usar esse comando, é necessário configurar sua chave da OpenAI. Caso não tenha, pode criar uma nova no site da ).
 
 However, before using this command, you need to configure your OpenAI key. If you don't have one, you can create a new one on the [OpenAI website](https://platform.openai.com/account/api-keys).
 
